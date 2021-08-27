@@ -7,3 +7,4 @@ wasm-pack.log
 www/
 .appveyor.yml
 .travis.yml
+.DS_Store
